@@ -1,2 +1,4 @@
 # hello-world
-a repo for seeding ideas
+a seed
+
+This is just a test at this point
